@@ -1,6 +1,6 @@
 /// @description Variables iniciales
 
-current_state = DOG_STATE.IN_BOX;
+current_state = DOG_STATE.IDDLE;
 
 //CONSTANTE DE VELOCIDAD DEL PERRO
 spd  = 2;
