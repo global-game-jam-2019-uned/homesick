@@ -54,6 +54,4 @@ if place_meeting(x, y, obj_stop_light_button) && keyboard_check(vk_control)
 x += hsp;
 y += vsp;
 
-
-
-
+scr_dog_scene_2_step_collision_car1()
