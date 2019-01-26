@@ -7,6 +7,7 @@ scr_player_input();
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
+scr_dog_jump();
 scr_dog_smell_key();
 
 ///ESTADOS DEL PERRO
@@ -22,6 +23,7 @@ if(current_state == DOG_STATE.IN_BOX){
 if(current_state == DOG_STATE.OUT_BOX){
 	
 	scr_dog_outbox();
+	
 	
 }
 
@@ -42,6 +44,7 @@ if(current_state == DOG_STATE.ALERT){
 //CAMINANDO TRISTE VELOCIDAD = 1
 if(current_state == DOG_STATE.SAD_WALK){
 	
+	grav = 1;
 	spd = 1;
 }
 
@@ -73,7 +76,7 @@ if(place_meeting(x + hsp, y, obj_wall)){
 }
 
 if(place_meeting(x, y + vsp, obj_wall)){
-	
+	on_air = false;
 	vsp = 0;
 
 }
