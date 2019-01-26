@@ -2,7 +2,7 @@
     "id": "4301aab2-a4ad-46d8-a2ca-36142c1910f0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spri_small_car",
+    "name": "spr_small_car",
     "For3D": false,
     "HTile": false,
     "VTile": false,

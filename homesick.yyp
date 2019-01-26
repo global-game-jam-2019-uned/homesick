@@ -170,7 +170,7 @@
             "Key": "4301aab2-a4ad-46d8-a2ca-36142c1910f0",
             "Value": {
                 "id": "5ed35224-b2ed-4d65-ba9c-aae2dbc11062",
-                "resourcePath": "sprites\\spri_small_car\\spri_small_car.yy",
+                "resourcePath": "sprites\\spr_small_car\\spr_small_car.yy",
                 "resourceType": "GMSprite"
             }
         },
