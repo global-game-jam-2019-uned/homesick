@@ -7,8 +7,8 @@ if(object_exists(obj_dog)){
 	
 } 
 
-//JA EL VOLUMEN SI EL PERRO ESTÁ CERCA
-if(distance_to_dog < 200 && obj_dog.alert == false){
+//HABILIDAD DE OLER
+if(distance_to_dog < 200 && obj_dog.can_smell == false){
 	
 	
 	obj_dog.current_state = DOG_STATE.ALERT;

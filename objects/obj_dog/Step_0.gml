@@ -27,8 +27,8 @@ if(current_state == DOG_STATE.OUT_BOX){
 //PERRO SE ACERCA A POSTE
 if(current_state == DOG_STATE.ALERT){
 	
-	if(!alert){
-		alert = true;
+	if(!can_smell){
+		can_smell = true;
 		alarm[0] = 180;
 	}
 	hsp = 0;

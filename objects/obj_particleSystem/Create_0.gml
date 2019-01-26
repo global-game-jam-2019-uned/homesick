@@ -30,4 +30,20 @@ part_type_orientation(particleExplosion,0,359,5,10,1);
 part_type_blend(particleExplosion,false);
 part_type_life(particleExplosion,20,40);
 
+paperDust = part_type_create();
+part_type_shape(paperDust,pt_shape_sphere);
+part_type_size(paperDust,0.01,0.10,0,0);
+part_type_scale(paperDust,1,1);
+part_type_color3(paperDust,8454143,8454016,16777088);
+part_type_alpha1(paperDust,1);
+part_type_speed(paperDust,1,1,0,0);
+part_type_direction(paperDust,0,359,0,0);
+part_type_gravity(paperDust,0,270);
+part_type_orientation(paperDust,0,0,0,0,1);
+part_type_blend(paperDust,1);
+part_type_life(paperDust,20,40);
+
+
+
+
 alarm[0] = 25;
