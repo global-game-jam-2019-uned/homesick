@@ -77,6 +77,14 @@
             }
         },
         {
+            "Key": "032710ae-1535-4100-888e-bc13a6ed67e4",
+            "Value": {
+                "id": "9db64b16-908a-4cec-b025-738878e51811",
+                "resourcePath": "objects\\obj_stop_light_button\\obj_stop_light_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0891be29-0b4d-4f2b-9bdf-a452f52f42b1",
             "Value": {
                 "id": "689245f3-13f6-4816-bf6c-8d04a849f307",
