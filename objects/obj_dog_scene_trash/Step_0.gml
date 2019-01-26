@@ -15,12 +15,6 @@ if (key_up && !on_air) {
 
 ///ESTADOS DEL PERRO
 
-//MIENTRAS ESTÁ EN LA CAJA
-if(current_state == DOG_STATE.IN_BOX){
-	
-	scr_dog_inbox();
-}
-
 
 //SALIENDO DE LA CAJA
 if(current_state == DOG_STATE.OUT_BOX){
