@@ -1,2 +1,2 @@
 /// @description Inserte aquí la descripción
-car_size = 0.5
+scale = 0.5
