@@ -11,3 +11,6 @@ vsp = 0;
 
 //GRAVEDAD
 grav = 0.05;
+
+//ALERTA
+alert = false;
