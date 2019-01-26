@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "5abb97dd-872e-47d3-9bd3-38c985964a02",
+            "Value": {
+                "id": "17fbb166-7fab-4e6d-834f-93912e0dbaf6",
+                "resourcePath": "sprites\\sp_stop_light_button\\sp_stop_light_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5eae4642-b0a7-4633-ad1c-ac62faee1b83",
             "Value": {
                 "id": "5234ddec-5656-4f71-9f04-31b7ebc63b8f",
