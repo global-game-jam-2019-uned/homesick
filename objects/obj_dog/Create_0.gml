@@ -3,7 +3,7 @@
 current_state = DOG_STATE.IN_BOX;
 
 //CONSTANTE DE VELOCIDAD DEL PERRO
-spd  = 1;
+spd  = 2;
 
 //VELOCIDAD HORIZONTAL Y VERTICAL
 hsp = 0;

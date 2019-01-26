@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0ca9d63d-be10-44fd-84a2-9af91fc7b6a4",
+            "Value": {
+                "id": "a664daa3-34cd-453a-ab44-d87fb06177c1",
+                "resourcePath": "sprites\\bg_day\\bg_day.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1281beec-fe8c-4c92-8ea4-cffabf17842d",
+            "Value": {
+                "id": "a3cc50e6-1b1f-4757-a3e7-ec148a431a14",
+                "resourcePath": "views\\1281beec-fe8c-4c92-8ea4-cffabf17842d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2599d9b1-0caf-4f8f-9e68-cb7514bf1a53",
             "Value": {
                 "id": "1c5c405b-6884-4796-b94d-cc032451a131",

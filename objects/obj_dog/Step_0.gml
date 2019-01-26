@@ -25,11 +25,17 @@ if(current_state == DOG_STATE.OUT_BOX){
 	if(place_meeting(x, y + vsp, obj_wall)){
 	
 	hsp = 0;
-	current_state = DOG_STATE.IDDLE;
+	current_state = DOG_STATE.SAD_WALK;
 	
 	}
 	
 }
+
+if(current_state == DOG_STATE.SAD_WALK){
+	
+	spd = 1;
+}
+
 
 if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 	
