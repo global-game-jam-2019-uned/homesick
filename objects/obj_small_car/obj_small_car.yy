@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_small_car",
     "eventList": [
-        
+        {
+            "id": "820264ff-f604-4a6b-a6ec-02557c494d1e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f23940f4-f3d8-4e3b-b27b-b338a05ed043"
+        },
+        {
+            "id": "52d44176-160d-4f6f-8cfd-5ba34c8fea89",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "f23940f4-f3d8-4e3b-b27b-b338a05ed043"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
