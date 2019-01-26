@@ -1,4 +1,2 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
-first_stop_light = 1
-second_stop_light = 1
+/// @description Inserte aquí la descripció
+instance_create_layer(384, 576, layer_get_id("back"), obj_small_car)
