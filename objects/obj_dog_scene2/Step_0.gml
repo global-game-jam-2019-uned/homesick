@@ -55,6 +55,9 @@ if(place_meeting(x, y + vsp, obj_wall)){
 
 }
 
+//COLISION CON EL PERRO
+if place_meeting(x, y, obj_small_car) && first_stop_light == 1
+	room_restart()
 
 //SE MUEVE LA POSICIÓN DEL PERRO CON LAS VARIABLES ANTERIORES
 x += hsp;
