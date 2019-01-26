@@ -10,4 +10,6 @@ hsp = 0;
 vsp = 0;
 
 //GRAVEDAD
-grav = 0.05;
+grav = 1;
+
+on_air = false
