@@ -8,8 +8,10 @@ if(object_exists(obj_dog)){
 } 
 
 //JA EL VOLUMEN SI EL PERRO ESTÁ CERCA
-if(distance_to_dog < 200){
+if(distance_to_dog < 200 && obj_dog.alert == false){
 	
+	
+	obj_dog.current_state = DOG_STATE.ALERT;
 	//near = true;
 	//audio_sound_gain(snd_escena1, 0, 600)
 	

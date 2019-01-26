@@ -24,23 +24,32 @@ if(current_state == DOG_STATE.OUT_BOX){
 	
 }
 
+//PERRO SE ACERCA A POSTE
+if(current_state == DOG_STATE.ALERT){
+	
+	if(!alert){
+		alert = true;
+		alarm[0] = 180;
+	}
+	hsp = 0;
+
+	//scr_dog_alert();
+	
+}
+
+
 //CAMINANDO TRISTE VELOCIDAD = 1
 if(current_state == DOG_STATE.SAD_WALK){
 	
 	spd = 1;
 }
 
-//PERRO SE ACERCA A POSTE
-if(current_state == DOG_STATE.ALERT && !alert){
-	
-	scr_dog_alert();
-	
-}
+
 
 
 
 //SE CALCULA EL MOVIMIENTO
-if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
+if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX && current_state != DOG_STATE.ALERT){
 	
 	hsp = sign(mov) * spd;
 	vsp += grav;

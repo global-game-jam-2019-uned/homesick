@@ -1,2 +1,4 @@
 /// @description Insert description here
-// You can write your code in this editor
+
+hsp = 0;
+current_state = DOG_STATE.SAD_WALK;
