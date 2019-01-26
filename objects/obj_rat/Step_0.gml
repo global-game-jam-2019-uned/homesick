@@ -8,38 +8,30 @@ if (place_meeting(x, y - obj_dog_scene_trash.vsp, obj_dog_scene_trash)) {
 }
 
 
-//COLISIÓN VERTICAL CON LA PLATAFORMA
-if(place_meeting(x, y + vsp, obj_platform)){
+
+//COLISIÓN VERTICAL
+if(place_meeting(x, y + vsp, obj_wall)
+	|| place_meeting(x, y + vsp, obj_platform)
+	|| place_meeting(x, y + vsp, obj_enemy_collision)){
 	vsp = 0;
 }
 
-//COLISIÓN HORIZONTAL CON LA PLATAFORMA
-if(place_meeting(x + hsp, y, obj_platform)){
-	hsp = 0;
-}
-
-//COLISIÓN CON LA PLATAFORMA
-if(place_meeting(x + hsp, y + vsp, obj_wall)){
-	hsp = 0;
-	vsp = 0;
-}
-
-//COLISIÓN VERTICAL CON EL PISO
-if(place_meeting(x, y + vsp, obj_wall)){
-	vsp = 0;
-}
-
-//COLISIÓN HORIZONTAL CON EL PISO
-if(place_meeting(x + hsp, y, obj_wall)){
+//COLISIÓN HORIZONTAL
+if(place_meeting(x + hsp, y, obj_wall) 
+	|| place_meeting(x + hsp, y, obj_platform)
+	|| place_meeting(x + hsp, y, obj_enemy_collision)){
 	hsp = 0;
 	hspeed *= -1;
 }
 
-//COLISIÓN CON EL PISO
-if(place_meeting(x + hsp, y + vsp, obj_wall)){
+//COLISIÓN
+if(place_meeting(x + hsp, y + vsp, obj_wall)
+	|| place_meeting(x + hsp, y + vsp, obj_platform)
+	|| place_meeting(x + hsp, y + vsp, obj_enemy_collision)){
 	hsp = 0;
 	vsp = 0;
 }
+
 
 // GRAVEDAD DE LA RATA
 y += vsp;
