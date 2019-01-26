@@ -1,0 +1,4 @@
+*.diff
+*.patch
+/.svn
+.DS_Store
