@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "005204cd-d1f9-4f8f-bb33-3226e492aadc",
+            "Value": {
+                "id": "55ae69dd-b459-4eea-83c6-43fe2d5c3efc",
+                "resourcePath": "objects\\obj_test\\obj_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "023b82ab-a1ca-4854-9771-68751eaccae6",
             "Value": {
                 "id": "66afaf8f-55ed-44a8-9ef0-1492f7b7169e",
@@ -122,17 +130,6 @@
             "Key": "377cc0ac-e3d8-422e-aa29-3c04c37b44ec",
             "Value": {
                 "id": "9617aac7-a271-47d3-abae-2e930591a1c9",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_house_back\/obj_house_back.yy",
                 "resourceType": "GMObject"
             }
@@ -157,17 +154,6 @@
             "Key": "41008e50-c762-4167-8a5b-a93c1f559bc5",
             "Value": {
                 "id": "ff5265d8-8ec6-4032-b2c0-b8b4f43f0d1f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_dog_inbox\/scr_dog_inbox.yy",
                 "resourceType": "GMScript"
             }
@@ -176,17 +162,6 @@
             "Key": "422e22db-0a02-4a98-ac7e-61faf7b32abb",
             "Value": {
                 "id": "a158192d-43e7-4e64-89c9-f2b5eb0f9198",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_dog_outbox\/scr_dog_outbox.yy",
                 "resourceType": "GMScript"
             }
@@ -195,17 +170,6 @@
             "Key": "486f35ba-fdf4-46c4-bad1-5e872da4bd2e",
             "Value": {
                 "id": "7ffd419d-db39-4c7d-8d50-a0bc2a7eac73",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_dog_scene2\/obj_dog_scene2.yy",
                 "resourceType": "GMObject"
             }
@@ -302,17 +266,6 @@
             "Key": "9251f58e-226d-4167-9a1e-41965c9b0c81",
             "Value": {
                 "id": "c3a5aab2-00c0-4287-9782-a80ecf93e034",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_house_front\/obj_house_front.yy",
                 "resourceType": "GMObject"
             }
@@ -329,17 +282,6 @@
             "Key": "a8140263-127b-4958-9e70-c3bb1b27069b",
             "Value": {
                 "id": "ac652138-79b1-407d-a504-d82919e70ef4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_player_input\/scr_player_input.yy",
                 "resourceType": "GMScript"
             }
@@ -364,17 +306,6 @@
             "Key": "af53afe8-c5fd-4f41-a591-d546a6f3d6cb",
             "Value": {
                 "id": "2bbc081a-4f85-4dfd-99c4-eba25dbce8ec",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/sprite9\/sprite9.yy",
                 "resourceType": "GMSprite"
             }
@@ -487,17 +418,6 @@
             "Key": "dd89f26e-a562-4ad0-b11c-6a3bb04f9ac1",
             "Value": {
                 "id": "7ebabc64-bd8f-4571-a9bb-f70bb93348b1",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/sprite10\/sprite10.yy",
                 "resourceType": "GMSprite"
             }
@@ -522,17 +442,6 @@
             "Key": "f1ddc2cc-d139-4a42-9b73-74163976c319",
             "Value": {
                 "id": "039e478b-271a-4b3e-a9b2-5806fd8f06ef",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/sprite8\/sprite8.yy",
                 "resourceType": "GMSprite"
             }
