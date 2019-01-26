@@ -609,6 +609,25 @@
             }
         },
         {
+            "Key": "593fcd9b-ac35-43ce-a17d-9e08866385b7",
+            "Value": {
+                "id": "602967b9-285f-40ae-b32c-a28adb3a2616",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_dog_scene_2_bridge_collisions\/scr_dog_scene_2_bridge_collisions.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5a450b00-c53b-4adc-929d-330561bb8b94",
             "Value": {
                 "id": "1e5890ae-302d-4245-9d9a-4ca8b63a75e3",
@@ -776,6 +795,44 @@
                     "default"
                 ],
                 "resourcePath": "views\/7e72e0ee-0fc4-4628-89a5-9da0cd7fd172.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "807df948-701f-4d13-97a1-1065670d9b80",
+            "Value": {
+                "id": "53cc495b-1ad6-425b-8fad-699e1773f3c7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_invisible\/spr_invisible.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "82a78dc1-5d9a-4fec-99a5-18a684e32273",
+            "Value": {
+                "id": "d3b1320d-0f6a-4207-a48c-11c3f2853aaf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/82a78dc1-5d9a-4fec-99a5-18a684e32273.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1369,6 +1426,25 @@
             }
         },
         {
+            "Key": "da365d79-3885-4253-830d-90ea5c54466d",
+            "Value": {
+                "id": "9dc68a9f-ae00-4e2e-aa5a-ff4c087128af",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_invisible_collision\/obj_invisible_collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd89f26e-a562-4ad0-b11c-6a3bb04f9ac1",
             "Value": {
                 "id": "7ebabc64-bd8f-4571-a9bb-f70bb93348b1",
@@ -1549,7 +1625,8 @@
         "795adeed-90b2-4495-80af-92229974eb17",
         "c7975162-d1cf-4f97-9434-e44b882a1098",
         "e4654cd0-668a-4659-99a0-ad08246b79e9",
-        "42c3d4e9-decf-4fa2-bc76-8076bae7f55c"
+        "42c3d4e9-decf-4fa2-bc76-8076bae7f55c",
+        "593fcd9b-ac35-43ce-a17d-9e08866385b7"
     ],
     "tutorial": ""
 }

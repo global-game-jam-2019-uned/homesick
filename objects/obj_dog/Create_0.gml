@@ -13,4 +13,4 @@ vsp = 0;
 grav = 0.05;
 
 //ALERTA
-alert = false;
+can_smell = false;
