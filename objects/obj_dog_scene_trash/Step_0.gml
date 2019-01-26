@@ -29,11 +29,7 @@ if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 
 scr_dog_collision();
 
-
-//COLISION HORIZONTAL CON EL ENEMIGO RATA
-if (place_meeting(x + hsp, y, obj_rat)) {
-	room_restart();
-}
+scr_dog_enemy_collision();
 
 //SE MUEVE LA POSICIÓN DEL PERRO CON LAS VARIABLES ANTERIORES
 x += hsp;
