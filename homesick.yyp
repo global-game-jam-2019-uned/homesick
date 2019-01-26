@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "da365d79-3885-4253-830d-90ea5c54466d",
+            "Value": {
+                "id": "9dc68a9f-ae00-4e2e-aa5a-ff4c087128af",
+                "resourcePath": "objects\\obj_invisible_collision\\obj_invisible_collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd89f26e-a562-4ad0-b11c-6a3bb04f9ac1",
             "Value": {
                 "id": "7ebabc64-bd8f-4571-a9bb-f70bb93348b1",
