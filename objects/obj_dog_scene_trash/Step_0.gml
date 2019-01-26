@@ -8,7 +8,7 @@ scr_player_input();
 var mov = key_right - key_left;
 
 if (key_up && !on_air) {
-	vsp -= 15;
+	vsp -= 16;
 	on_air = true;
 }
 
@@ -54,6 +54,22 @@ if(place_meeting(x + hsp, y, obj_wall)){
 
 //COLISIÓN VERTICAL CON EL PISO
 if(place_meeting(x, y + vsp, obj_wall)){
+	vsp = 0;
+	on_air = false;
+	vsp = 0;
+
+}
+
+
+//COLISIÓN HORIZONTAL CON EL PISO
+if(place_meeting(x + hsp, y, obj_platform)){
+	
+	hsp = 0;
+
+}
+
+//COLISIÓN VERTICAL CON EL PISO
+if(place_meeting(x, y + vsp, obj_platform)){
 	vsp = 0;
 	on_air = false;
 	vsp = 0;
