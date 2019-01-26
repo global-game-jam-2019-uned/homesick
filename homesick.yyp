@@ -717,6 +717,14 @@
                 "resourcePath": "rooms\/rm_scene1\/rm_scene1.yy",
                 "resourceType": "GMRoom"
             }
+        },
+        {
+            "Key": "fcdbd7ea-b1aa-4c7b-aed5-5cb542cad574",
+            "Value": {
+                "id": "826bdcad-1857-4448-b44e-9b59961c4170",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
         }
     ],
     "script_order": [
