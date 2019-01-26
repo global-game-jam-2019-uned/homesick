@@ -1,50 +1,43 @@
 /// @description Gameplay
 
 //PLAYER INPUT
-key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
-key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
+scr_player_input();
+
 
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
 
+///ESTADOS DEL PERRO
 
-
+//MIENTRAS ESTÁ EN LA CAJA
 if(current_state == DOG_STATE.IN_BOX){
-	if(keyboard_check(vk_anykey)){
-		hsp = 1;
-		vsp -= 2;
-		current_state = DOG_STATE.OUT_BOX;	
-	}
-
+	
+	scr_dog_inbox();
 }
 
+
+//SALIENDO DE LA CAJA
 if(current_state == DOG_STATE.OUT_BOX){
 	
-	vsp += grav;
-	if(place_meeting(x, y + vsp, obj_wall)){
-	
-	hsp = 0;
-	current_state = DOG_STATE.SAD_WALK;
-	
-	}
+	scr_dog_outbox();
 	
 }
 
+//CAMINANDO TRISTE VELOCIDAD = 1
 if(current_state == DOG_STATE.SAD_WALK){
 	
 	spd = 1;
 }
 
 
+
+//SE CALCULA EL MOVIMIENTO
 if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 	
-	hsp = mov * spd;
+	hsp = sign(mov) * spd;
 	vsp += grav;
 }
-
-
-//CANTIDAD DE MOVIMIENTO HORIZONTAL Y VERTICAL
 
 
 
