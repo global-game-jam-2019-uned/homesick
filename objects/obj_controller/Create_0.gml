@@ -1,5 +1,10 @@
 /// @description Insert description here
 enum DOG_STATE {
+	IN_BOX,
+	OUT_BOX,
 	IDDLE,
-	RUN
+	SAD_WALK,
+	NORMAL_WALK,
+	SMELL,
+	INTERACT
 }
