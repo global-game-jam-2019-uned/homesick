@@ -10,13 +10,14 @@
         "a70162f5-32c5-424f-a509-ec1a60b9582d",
         "e069edf4-984a-4636-83ff-3f43d9073775",
         "e2c620e5-50f6-441f-b18c-606cb8d6d819",
-        "d6a24ddb-a811-44cf-81a6-2126adcd87c6"
+        "d6a24ddb-a811-44cf-81a6-2126adcd87c6",
+        "24185ec8-8ef5-4a16-957a-dbe624063048"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances_front",
+            "name": "Instances_Front",
             "id": "d7801dba-4479-4179-b186-6f4c3ac5ef76",
             "depth": 0,
             "grid_x": 32,
@@ -69,13 +70,39 @@
             "visible": true
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances_Back",
+            "id": "1f38c65d-3fce-4315-9447-c5e5d202e52e",
+            "depth": 200,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_12C08B94","id": "24185ec8-8ef5-4a16-957a-dbe624063048","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_12C08B94","objId": "c3718971-1e1f-424c-96a7-27a18b0e0ae0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 576}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Backgrounds_Night",
             "id": "1ca58e71-02bf-4db4-8467-1c5b8d11118d",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -110,7 +137,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
