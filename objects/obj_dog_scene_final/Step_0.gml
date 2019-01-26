@@ -7,10 +7,7 @@ scr_player_input();
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
-if (key_up && !on_air) {
-	vsp -= 15;
-	on_air = true;
-}
+scr_dog_jump();
 
 
 ///ESTADOS DEL PERRO
@@ -45,20 +42,7 @@ if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 }
 
 
-//COLISIÓN HORIZONTAL CON EL PISO
-if(place_meeting(x + hsp, y, obj_wall)){
-	
-	hsp = 0;
-
-}
-
-//COLISIÓN VERTICAL CON EL PISO
-if(place_meeting(x, y + vsp, obj_wall)){
-	vsp = 0;
-	on_air = false;
-	vsp = 0;
-
-}
+scr_dog_collision();
 
 
 //SE MUEVE LA POSICIÓN DEL PERRO CON LAS VARIABLES ANTERIORES
