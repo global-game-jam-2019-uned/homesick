@@ -8,10 +8,10 @@ draw_self();
 	
 }*/
 
-if(distance_to_dog < 200){
+if(distance_to_dog < 200) {
 	
-	draw_text_color(obj_dog.x, obj_dog.y - 40, " /¡! ", c_green,0,0,0,1);
+	draw_text_color(obj_dog_scene2.x, obj_dog_scene2.y - 40, " /¡! ", c_green,0,0,0,1);
 	
-	}
+}
 
 
