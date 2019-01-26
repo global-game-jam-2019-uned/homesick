@@ -30,6 +30,13 @@ if(current_state == DOG_STATE.SAD_WALK){
 	spd = 1;
 }
 
+//PERRO SE ACERCA A POSTE
+if(current_state == DOG_STATE.ALERT){
+	
+	scr_dog_alert();
+	
+}
+
 
 
 //SE CALCULA EL MOVIMIENTO
