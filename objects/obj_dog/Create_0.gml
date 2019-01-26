@@ -14,3 +14,4 @@ grav = 0.05;
 
 //ALERTA
 can_smell = false;
+on_air = false

@@ -7,6 +7,7 @@ scr_player_input();
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
+scr_dog_smell_key();
 
 ///ESTADOS DEL PERRO
 
