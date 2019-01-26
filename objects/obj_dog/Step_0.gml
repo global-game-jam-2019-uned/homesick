@@ -31,7 +31,7 @@ if(current_state == DOG_STATE.SAD_WALK){
 }
 
 //PERRO SE ACERCA A POSTE
-if(current_state == DOG_STATE.ALERT){
+if(current_state == DOG_STATE.ALERT && !alert){
 	
 	scr_dog_alert();
 	
