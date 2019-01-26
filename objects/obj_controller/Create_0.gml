@@ -8,3 +8,5 @@ enum DOG_STATE {
 	SMELL,
 	INTERACT
 }
+
+
