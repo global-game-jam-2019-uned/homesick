@@ -9,7 +9,8 @@
         "023b82ab-a1ca-4854-9771-68751eaccae6",
         "5abb97dd-872e-47d3-9bd3-38c985964a02",
         "4301aab2-a4ad-46d8-a2ca-36142c1910f0",
-        "807df948-701f-4d13-97a1-1065670d9b80"
+        "807df948-701f-4d13-97a1-1065670d9b80",
+        "8fddc0ed-6098-41a6-9d83-dcc4c48accec"
     ],
     "filterType": "GMSprite",
     "folderName": "Máscara Colisión",

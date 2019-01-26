@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "208a72d3-59f5-42f6-8d6f-b9abc946c021",
+            "Value": {
+                "id": "5ce225b6-2ce6-4dac-a292-5eccf74e3fc9",
+                "resourcePath": "objects\\obj_bus_controller\\obj_bus_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2599d9b1-0caf-4f8f-9e68-cb7514bf1a53",
             "Value": {
                 "id": "1c5c405b-6884-4796-b94d-cc032451a131",
@@ -218,17 +226,6 @@
             "Key": "42c3d4e9-decf-4fa2-bc76-8076bae7f55c",
             "Value": {
                 "id": "26a78950-5ec4-4ed5-875e-d6bbb93bba0a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_dog_enemy_collision\/scr_dog_enemy_collision.yy",
                 "resourceType": "GMScript"
             }
@@ -285,17 +282,6 @@
             "Key": "593fcd9b-ac35-43ce-a17d-9e08866385b7",
             "Value": {
                 "id": "602967b9-285f-40ae-b32c-a28adb3a2616",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_dog_scene_2_bridge_collisions\/scr_dog_scene_2_bridge_collisions.yy",
                 "resourceType": "GMScript"
             }
@@ -376,17 +362,6 @@
             "Key": "807df948-701f-4d13-97a1-1065670d9b80",
             "Value": {
                 "id": "53cc495b-1ad6-425b-8fad-699e1773f3c7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_invisible\/spr_invisible.yy",
                 "resourceType": "GMSprite"
             }
@@ -395,17 +370,6 @@
             "Key": "82a78dc1-5d9a-4fec-99a5-18a684e32273",
             "Value": {
                 "id": "d3b1320d-0f6a-4207-a48c-11c3f2853aaf",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/82a78dc1-5d9a-4fec-99a5-18a684e32273.yy",
                 "resourceType": "GMFolder"
             }
@@ -456,6 +420,14 @@
                 "id": "d5ae6bee-99e5-4227-9e14-37b273acbde1",
                 "resourcePath": "objects\/obj_platform\/obj_platform.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8fddc0ed-6098-41a6-9d83-dcc4c48accec",
+            "Value": {
+                "id": "15593eed-1f0b-4351-816c-43c4efa45736",
+                "resourcePath": "sprites\\spr_bus_collision\\spr_bus_collision.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -670,17 +642,6 @@
             "Key": "da365d79-3885-4253-830d-90ea5c54466d",
             "Value": {
                 "id": "9dc68a9f-ae00-4e2e-aa5a-ff4c087128af",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_invisible_collision\/obj_invisible_collision.yy",
                 "resourceType": "GMObject"
             }
