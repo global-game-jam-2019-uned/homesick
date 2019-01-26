@@ -7,11 +7,7 @@ scr_player_input();
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
-if (key_up && !on_air) {
-	vsp -= 16;
-	on_air = true;
-}
-
+scr_dog_jump();
 
 ///ESTADOS DEL PERRO
 
