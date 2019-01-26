@@ -10,6 +10,7 @@ if(object_exists(obj_dog)){
 //JA EL VOLUMEN SI EL PERRO ESTÁ CERCA
 if(distance_to_dog < 200){
 	
-	draw_text_color(obj_dog.x, obj_dog.y - 40, " /¡! ", c_green,0,0,0,1);
+	//near = true;
+	//audio_sound_gain(snd_escena1, 0, 600)
 	
 	}
