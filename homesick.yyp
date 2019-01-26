@@ -476,6 +476,25 @@
             }
         },
         {
+            "Key": "42c3d4e9-decf-4fa2-bc76-8076bae7f55c",
+            "Value": {
+                "id": "26a78950-5ec4-4ed5-875e-d6bbb93bba0a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_dog_enemy_collision\/scr_dog_enemy_collision.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4301aab2-a4ad-46d8-a2ca-36142c1910f0",
             "Value": {
                 "id": "5ed35224-b2ed-4d65-ba9c-aae2dbc11062",
@@ -1529,7 +1548,8 @@
         "95ff82e8-9f21-48dd-94e0-5913eae6ef1b",
         "795adeed-90b2-4495-80af-92229974eb17",
         "c7975162-d1cf-4f97-9434-e44b882a1098",
-        "e4654cd0-668a-4659-99a0-ad08246b79e9"
+        "e4654cd0-668a-4659-99a0-ad08246b79e9",
+        "42c3d4e9-decf-4fa2-bc76-8076bae7f55c"
     ],
     "tutorial": ""
 }
