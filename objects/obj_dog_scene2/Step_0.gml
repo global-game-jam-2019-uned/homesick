@@ -7,6 +7,8 @@ scr_player_input();
 //DIRECCIÓN DE MOVIMIENTO
 var mov = key_right - key_left;
 
+scr_dog_jump();
+
 
 ///ESTADOS DEL PERRO
 
@@ -26,7 +28,6 @@ if(current_state == DOG_STATE.OUT_BOX){
 
 //CAMINANDO TRISTE VELOCIDAD = 1
 if(current_state == DOG_STATE.SAD_WALK){
-	
 	spd = 1;
 }
 
@@ -39,21 +40,8 @@ if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 	vsp += grav;
 }
 
+scr_dog_collision()
 
-
-//COLISIÓN HORIZONTAL CON EL PISO
-if(place_meeting(x + hsp, y, obj_wall)){
-	
-	hsp = 0;
-
-}
-
-//COLISIÓN VERTICAL CON EL PISO
-if(place_meeting(x, y + vsp, obj_wall)){
-	
-	vsp = 0;
-
-}
 
 //COLISION CON CARRO PEQUENNO
 if place_meeting(x, y, obj_small_car) && first_stop_light == 1
