@@ -45,6 +45,12 @@ if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
 }
 
 
+//COLISIÓN HORIZONTAL CON EL PISO
+if(place_meeting(x + hsp, y, obj_wall)){
+	
+	hsp = 0;
+
+}
 
 //COLISIÓN VERTICAL CON EL PISO
 if(place_meeting(x, y + vsp, obj_wall)){
