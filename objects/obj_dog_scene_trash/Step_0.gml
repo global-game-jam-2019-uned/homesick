@@ -29,13 +29,6 @@ if(current_state == DOG_STATE.OUT_BOX){
 	
 }
 
-//CAMINANDO TRISTE VELOCIDAD = 1
-if(current_state == DOG_STATE.SAD_WALK){
-	
-	spd = 1;
-}
-
-
 
 //SE CALCULA EL MOVIMIENTO
 if(current_state != DOG_STATE.IN_BOX && current_state != DOG_STATE.OUT_BOX){
@@ -54,7 +47,6 @@ if(place_meeting(x + hsp, y, obj_wall)){
 
 //COLISIÓN VERTICAL CON EL PISO
 if(place_meeting(x, y + vsp, obj_wall)){
-	vsp = 0;
 	on_air = false;
 	vsp = 0;
 
@@ -70,11 +62,22 @@ if(place_meeting(x + hsp, y, obj_platform)){
 
 //COLISIÓN VERTICAL CON EL PISO
 if(place_meeting(x, y + vsp, obj_platform)){
-	vsp = 0;
 	on_air = false;
 	vsp = 0;
 
 }
+
+//COLISION HORIZONTAL CON EL ENEMIGO RATA
+if (place_meeting(x + hsp, y, obj_rat)) {
+	room_restart();
+}
+
+//COLISION VERTICAL CON EL ENEMIGO RATA
+/*if (place_meeting(x, y + vsp, obj_rat)) {
+	with(obj_rat) {	
+		instance_destroy()
+	}
+}*/
 
 
 //SE MUEVE LA POSICIÓN DEL PERRO CON LAS VARIABLES ANTERIORES
