@@ -28,3 +28,7 @@ if(audio_is_playing(snd_escena1)){
 	}
 }
 
+//Scene2
+if place_meeting(x, y, obj_bus)
+	instance_destroy(obj_bus)
+
