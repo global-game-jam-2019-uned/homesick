@@ -9,7 +9,8 @@
         "c599ea79-548b-4f80-8ab3-14cb0ed4edb1",
         "005204cd-d1f9-4f8f-bb33-3226e492aadc",
         "3c510efd-1c57-49bb-a5bd-76c6f8ba7bf0",
-        "208a72d3-59f5-42f6-8d6f-b9abc946c021"
+        "208a72d3-59f5-42f6-8d6f-b9abc946c021",
+        "a508c4b5-ee84-463d-80c8-b7800f9ac57c"
     ],
     "filterType": "GMObject",
     "folderName": "Controladores",
