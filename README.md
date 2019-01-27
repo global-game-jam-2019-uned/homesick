@@ -6,6 +6,8 @@ Juego para el Global Game Jam 2019 (Uned)
 
 [Car vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/car)
 [Travel vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/travel)
+[City vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/city)
+
 ## Contribuidores 
 
 - [Edder Rojas](https://github.com/edderrd)
