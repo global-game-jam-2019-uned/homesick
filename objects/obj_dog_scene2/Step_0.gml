@@ -48,7 +48,12 @@ if place_meeting(x, y, obj_small_car) && first_stop_light == 1
 	room_restart()
 
 if place_meeting(x, y, obj_stop_light_button) && keyboard_check(vk_control)
+{
 	first_stop_light = 0
+	audio_sound_gain(snd_escena2parte1, 0, 100)
+	alarm[1] = 100
+	audio_stop_sound(snd_escena2parte1)
+}
 
 //SE MUEVE LA POSICIÓN DEL PERRO CON LAS VARIABLES ANTERIORES
 x += hsp;

@@ -20,7 +20,7 @@ if(place_empty(x, y + 5) && current_state != DOG_STATE.IN_BOX){
 	//SI BAJA SPRITE DE CAIDA
 	if(sign(vsp) > 0){
 		//COMIENZA A ANIMAR SI NO HA EMPEZADO
-		sprite_index = spr_dog_jump_up;
+		sprite_index = spr_dog_jump_down;
 		if(image_index <= 1){
 			image_speed = 1;
 		}
