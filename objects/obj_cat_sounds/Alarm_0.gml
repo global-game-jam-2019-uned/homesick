@@ -9,4 +9,4 @@ cat_sound = choose(snd_gato1, snd_gato1, snd_gato1, snd_gato4);
 
 audio_play_sound(cat_sound, 1, false);
 
-alarm[0] = 60;
+alarm[0] = room_speed * 23;
