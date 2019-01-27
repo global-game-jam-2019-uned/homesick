@@ -50,3 +50,6 @@ if(place_meeting(x + hsp, y + vsp, obj_wall)){
 
 // GRAVEDAD DE LA RATA
 y += vsp;
+
+
+scr_cat_sprite_handler();
