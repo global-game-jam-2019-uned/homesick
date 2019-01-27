@@ -1,8 +1,8 @@
 {
-    "id": "208a72d3-59f5-42f6-8d6f-b9abc946c021",
+    "id": "56a93bd8-fbc8-4f4e-8396-a958bb1845aa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bus_controller",
+    "name": "obj_bus",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "8fddc0ed-6098-41a6-9d83-dcc4c48accec",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }

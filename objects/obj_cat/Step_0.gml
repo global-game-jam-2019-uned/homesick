@@ -46,5 +46,10 @@ if(place_meeting(x + hsp, y + vsp, obj_wall)){
 	vsp = 0;
 }
 
+// COLISION CON EL JUGADOR AL CAER
+if (place_meeting(x, y + vsp, obj_dog_scene_trash)) {
+	room_restart();	
+}
+
 // GRAVEDAD DE LA RATA
 y += vsp;

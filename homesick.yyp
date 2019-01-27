@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "56a93bd8-fbc8-4f4e-8396-a958bb1845aa",
+            "Value": {
+                "id": "efde733b-2bc1-4d1c-be41-31bcc9ea5098",
+                "resourcePath": "objects\\obj_bus\\obj_bus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "593fcd9b-ac35-43ce-a17d-9e08866385b7",
             "Value": {
                 "id": "602967b9-285f-40ae-b32c-a28adb3a2616",
@@ -332,6 +340,14 @@
                 "id": "ee0608d2-c765-41c0-b4f2-43a02195da7f",
                 "resourcePath": "rooms\/rm_trash\/rm_trash.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "75177419-444b-4d95-8485-43f61f91b0e9",
+            "Value": {
+                "id": "64542bf1-bb23-430e-8378-55396c1721b1",
+                "resourcePath": "sprites\\spr_bus\\spr_bus.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
