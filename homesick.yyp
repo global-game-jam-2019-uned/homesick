@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "894811c5-e9f6-466c-8da8-967075da9fcf",
+            "Value": {
+                "id": "38c549fe-5594-4adb-b582-eacd8dcafc4a",
+                "resourcePath": "sprites\\spr_traffic_light\\spr_traffic_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89df7a90-63cd-485a-a8d5-24faedd1395f",
             "Value": {
                 "id": "e2f32719-b2d7-427f-9263-1c407ba7999f",
