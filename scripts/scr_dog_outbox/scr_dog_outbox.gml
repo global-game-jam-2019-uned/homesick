@@ -3,6 +3,7 @@
 
 vsp += grav;
 
+
 if(place_meeting(x, y + vsp, obj_wall)){
 	
 	hsp = 0;

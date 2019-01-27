@@ -7,7 +7,7 @@ if(object_exists(obj_dog)){
 	
 } 
 
-//HABILIDAD DE OLER
+//HABILIDAD DE OLER AL ACERCARSE A POSTE
 if(distance_to_dog < 200 && obj_dog.can_smell == false){
 	
 	
@@ -17,8 +17,21 @@ if(distance_to_dog < 200 && obj_dog.can_smell == false){
 	
 	}
 
+//GANA HABILIDAD DE SALTAR SI PERRO HUELE CERCA DEL POSTE
 if(distance_to_dog < 30 && obj_dog.current_state == DOG_STATE.SMELL){
 	
-	instance_create_layer(x - 20, y - 120, "Instances", obj_wall);
 	obj_dog.can_jump = true;
+	
+	if(instance_exists(obj_paper_image)){
+	/*var paper_x = obj_paper_image.x;
+	var paper_y = obj_paper_image.y;
+	
+	instance_destroy(obj_paper_image);
+	*/
+	instance_create_layer(obj_paper_image.x, obj_paper_image.y, "Instances", obj_paper_action);
+	
+	
+	}
+	
+	
 	}

@@ -59,3 +59,6 @@ scr_dog_scene_2_step_collision_car1()
 scr_dog_scene_2_bridge_collisions()
 
 scr_dog_scene_2_bus_collision()
+
+///MANEJO DE SPRITES ANIMADOS
+//scr_dog_sprite_handler();
