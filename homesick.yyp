@@ -604,6 +604,13 @@
                 "id": "f721331f-d2d0-4e3a-91c4-8d1892c2f0ef",
                 "resourcePath": "sounds\\snd_gato1\\snd_gato1.yy",
                 "resourceType": "GMSound"
+		},
+        {	
+            "Key": "894811c5-e9f6-466c-8da8-967075da9fcf",
+            "Value": {
+                "id": "38c549fe-5594-4adb-b582-eacd8dcafc4a",
+                "resourcePath": "sprites\\spr_traffic_light\\spr_traffic_light.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
