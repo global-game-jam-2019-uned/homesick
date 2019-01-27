@@ -2,6 +2,9 @@
 
 Juego para el Global Game Jam 2019 (Uned)
 
+## Bibliografía
+
+
 ## Contribuidores 
 
 - [Edder Rojas](https://github.com/edderrd)
