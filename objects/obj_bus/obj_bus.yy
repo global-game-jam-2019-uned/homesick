@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bus",
     "eventList": [
-        
+        {
+            "id": "33dd78b7-925f-4732-96ce-81c0ed0caa77",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "56a93bd8-fbc8-4f4e-8396-a958bb1845aa"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "75177419-444b-4d95-8485-43f61f91b0e9",
     "visible": true
 }
