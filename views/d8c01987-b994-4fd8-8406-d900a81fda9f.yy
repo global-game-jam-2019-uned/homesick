@@ -6,7 +6,6 @@
     "children": [
         "38418f92-5135-4559-8ada-57410d1b5285",
         "316702fa-a29f-4ba1-8908-5b3c0c78131d",
-        "06287e3b-63a1-4b01-a7b4-65bd0c820bd5",
         "9760ebd2-4a42-4906-aee6-7245b674aad0",
         "d0f3eee2-ee23-441f-9604-a97c34c71b4c",
         "d144be9e-ab10-4993-bdd2-8e5a2a0e6420",
@@ -16,7 +15,12 @@
         "030d27c4-0d54-4e3b-a9bf-33318539b5ad",
         "4c6b1dcc-ef20-46cf-9d4f-0d053358c813",
         "3da0c787-f58d-482c-8407-0b61814233dc",
-        "06287e3b-63a1-4b01-a7b4-65bd0c820bd5"
+        "06287e3b-63a1-4b01-a7b4-65bd0c820bd5",
+        "79685840-7cd9-4a00-8bcb-8e9870b525bc",
+        "d85f46dd-166a-445b-858b-506ca348bc8b",
+        "b1e1f6e9-0bef-4f9f-ae2e-01325ba119b3",
+        "1250548f-9c2d-425c-8e45-b7329236b7df",
+        "b7aae12d-8155-4f08-bde7-4ab27fc34b96"
     ],
     "filterType": "GMSprite",
     "folderName": "Tiles",
