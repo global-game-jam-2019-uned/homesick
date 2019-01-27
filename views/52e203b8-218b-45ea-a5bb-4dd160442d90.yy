@@ -11,7 +11,9 @@
         "d309d42b-8726-4c33-b40c-7b55c855a1ac",
         "e0939075-4572-4d53-9139-06c341de5f07",
         "7d29d64e-a74a-47a8-a5d8-2bf93bb7d2ce",
-        "8b174278-65a4-48b6-8c00-a7f83217b988"
+        "8b174278-65a4-48b6-8c00-a7f83217b988",
+        "854f04c0-39ff-448c-b10b-89a081ddf3f1",
+        "a78be456-fd00-4192-aaca-b4a745195797"
     ],
     "filterType": "GMObject",
     "folderName": "Visible",
