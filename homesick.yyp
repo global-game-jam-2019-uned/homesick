@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "a1ec56c9-26db-4581-be61-419815d04199",
+            "Value": {
+                "id": "304a9413-f31a-455d-af60-a3c8d945ba7e",
+                "resourcePath": "sounds\\snd_escena2parte3\\snd_escena2parte3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a241bcc2-a17f-4d5e-8518-90287cb836ba",
             "Value": {
                 "id": "3ad29243-5955-49d0-ab69-d6fe6c9a7aae",
