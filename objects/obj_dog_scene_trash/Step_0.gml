@@ -9,9 +9,6 @@ var mov = key_right - key_left;
 
 scr_dog_jump();
 
-///ESTADOS DEL PERRO
-
-
 //SALIENDO DE LA CAJA
 if(current_state == DOG_STATE.OUT_BOX){
 	
