@@ -13,3 +13,4 @@ vsp = 0;
 grav = 1;
 
 on_air = false
+can_jump = true;

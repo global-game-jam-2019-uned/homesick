@@ -32,6 +32,7 @@ scr_dog_enemy_collision();
 x += hsp;
 y += vsp;
 
-
+///MANEJO DE SPRITES ANIMADOS
+//scr_dog_sprite_handler();
 
 
