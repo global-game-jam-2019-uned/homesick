@@ -1,8 +1,8 @@
 {
-    "id": "854f04c0-39ff-448c-b10b-89a081ddf3f1",
+    "id": "a78be456-fd00-4192-aaca-b4a745195797",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_fence",
+    "name": "obj_house",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c42eb33b-919f-473f-9e53-5535743d9fe6",
+    "spriteId": "4b961a18-9c7d-43c3-a3a1-9a02f3546b62",
     "visible": true
 }
