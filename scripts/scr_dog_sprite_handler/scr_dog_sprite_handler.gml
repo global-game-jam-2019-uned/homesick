@@ -42,7 +42,7 @@ if(place_empty(x, y + 5) && current_state != DOG_STATE.IN_BOX){
 	switch(current_state){
 	
 		case DOG_STATE.SAD_WALK: 
-			sprite_index = spr_dog_jump_up;
+			sprite_index = spr_dog_sad_walk;
 			break;
 		case DOG_STATE.NORMAL_WALK: 
 			sprite_index = spr_dog_jump_up;
