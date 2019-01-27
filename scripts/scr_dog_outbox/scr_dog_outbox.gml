@@ -2,7 +2,7 @@
 //Perro salta de la caja y cae al piso
 
 vsp += grav;
-on_air = true;
+
 
 if(place_meeting(x, y + vsp, obj_wall)){
 	

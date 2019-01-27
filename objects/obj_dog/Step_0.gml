@@ -90,12 +90,31 @@ y += vsp;
 
 ///MANEJO DE SPRITES ANIMADOS
 if(on_air == true && vsp < 0){
-	sprite_index = spr_dog_jump_up;
-	if(image_index = 1){
+	sprite_index = spr_dog_jump_up1;
+	if(image_index >= 1 && image_index < 2){
 		image_speed = 0;
 	}
 }
 
+
+/*
+//MANEJO DE ANIMACIONES SPRITES
+if(!place_meeting(x, y + 1, obj_wall)){
+	sprite_index = spr_playerJ;
+	image_speed = 0
+	
+	if(sign(vsp) < 0){image_index = 1} else {image_index = 0}
+
+} else {
+	
+	image_speed = 1;
+	
+	if(sign(hsp) == 0){
+		sprite_index = spr_playerS;
+	} else {
+		sprite_index = spr_playerR;
+	}
+}*/
 
 //INVIERTE DIRECCIÓN DE SPRITE DEPENDIENDO DE DIRECCIÓN DE VELOCIDAD
 if(sign(hsp) != 0){
