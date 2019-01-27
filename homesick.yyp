@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "ab844182-7820-4f4f-92db-eb550b7a59e2",
+            "Value": {
+                "id": "03ec8b7f-5b98-4854-addf-344b536b8c75",
+                "resourcePath": "sprites\\spr_bus_yellow\\spr_bus_yellow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "af53afe8-c5fd-4f41-a591-d546a6f3d6cb",
             "Value": {
                 "id": "2bbc081a-4f85-4dfd-99c4-eba25dbce8ec",
