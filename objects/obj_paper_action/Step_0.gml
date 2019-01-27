@@ -13,4 +13,7 @@ if(paper_obtained && !paper_flying){
 	
 }
 
+if(paper_flying){
+	part_particles_create(obj_particleSystem.sistemaRain, x, y, obj_particleSystem.paperDust, 10);
+}
 

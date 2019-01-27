@@ -12,6 +12,11 @@ if(distance_to_dog < 200 && obj_dog.can_smell == false){
 	
 	
 	obj_dog.current_state = DOG_STATE.ALERT;
+	instance_create_layer(x, y, "Instances_Back2", obj_day_night);
+	if(part_type_exists(particleRain)){
+		part_type_destroy(obj_particleSystem.particleRain);
+	}
+	
 	//near = true;
 	//audio_sound_gain(snd_escena1, 0, 600)
 	
