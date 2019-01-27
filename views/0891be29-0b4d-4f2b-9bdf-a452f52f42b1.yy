@@ -6,7 +6,8 @@
     "children": [
         "b3fcec38-1341-47d9-9bee-0b88c11984fa",
         "b57dcc10-64c1-448b-9629-fbb70c13ab04",
-        "e71f5f97-1744-4fd4-845f-b86be678d2c4"
+        "e71f5f97-1744-4fd4-845f-b86be678d2c4",
+        "8b485ac3-3059-4b4d-8483-104d2f987f9f"
     ],
     "filterType": "GMSprite",
     "folderName": "Perro",
