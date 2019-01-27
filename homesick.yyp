@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "817536c8-48d7-49ac-ad57-de4b7ce99782",
+            "Value": {
+                "id": "fdc8dcc1-63a6-4db7-a52f-930244e59b76",
+                "resourcePath": "sprites\\spr_city_day\\spr_city_day.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82a78dc1-5d9a-4fec-99a5-18a684e32273",
             "Value": {
                 "id": "d3b1320d-0f6a-4207-a48c-11c3f2853aaf",

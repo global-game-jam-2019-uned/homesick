@@ -65,5 +65,6 @@ scr_dog_scene_2_bridge_collisions()
 
 if place_meeting(x, y, obj_bus)
 	room_restart()
+
 ///MANEJO DE SPRITES ANIMADOS
 scr_dog_sprite_handler();
