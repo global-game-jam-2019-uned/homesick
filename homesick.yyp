@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "137f08cc-21c8-41ff-bb00-41c0af1a889e",
+            "Value": {
+                "id": "73b21389-d3b5-496b-8d4f-52ad870893a3",
+                "resourcePath": "sounds\\snd_escena3sinpiano\\snd_escena3sinpiano.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1720b5ab-6777-428a-bb69-ec461135f42c",
             "Value": {
                 "id": "45be11c3-c05d-4428-8750-20bdd5442097",
@@ -180,6 +188,14 @@
                 "id": "9617aac7-a271-47d3-abae-2e930591a1c9",
                 "resourcePath": "objects\/obj_house_back\/obj_house_back.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "38418f92-5135-4559-8ada-57410d1b5285",
+            "Value": {
+                "id": "3335b085-0101-4ee7-9efd-6d7637cd4bf0",
+                "resourcePath": "sprites\\tile_pole\\tile_pole.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -284,6 +300,14 @@
                 "id": "cdf12122-96d4-4637-bc6d-59edc4032165",
                 "resourcePath": "scripts\\scr_dog_scene_2_bus_collision\\scr_dog_scene_2_bus_collision.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4f14ec15-2daf-4af3-b6f3-9150158b69b7",
+            "Value": {
+                "id": "1af144a6-11b5-4651-ac83-33b4bd305c78",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -703,6 +727,14 @@
             }
         },
         {
+            "Key": "bc605b99-37c2-4d67-b3fd-e96a1c1659b1",
+            "Value": {
+                "id": "7ca257af-2e2d-4829-bba9-a6790a36b61c",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "bda82c63-7c28-40d6-b597-5525aa49c59b",
             "Value": {
                 "id": "6eff4c47-c3df-40ef-bb10-fb654fcc6350",
@@ -764,6 +796,14 @@
                 "id": "aa1e57b3-e03e-4ceb-a66b-0c547e30f774",
                 "resourcePath": "sprites\/spr_wall\/spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8c01987-b994-4fd8-8406-d900a81fda9f",
+            "Value": {
+                "id": "1953ae55-ac51-4bb9-804f-bc14d3e2f117",
+                "resourcePath": "views\\d8c01987-b994-4fd8-8406-d900a81fda9f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
