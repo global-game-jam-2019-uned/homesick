@@ -6,7 +6,7 @@ if(place_empty(x, y + 5) && current_state != DOG_STATE.IN_BOX){
 	//SI SUBE SPRITE DE SALTO HACIA ARRIBA
 	if(sign(vsp) < 0){
 		
-		sprite_index = spr_dog_jump_up1;
+		sprite_index = spr_dog_jump_up;
 		//COMIENZA A ANIMAR SI NO HA EMPEZADO
 		if(image_index <= 1){
 			image_speed = 1;
@@ -20,7 +20,7 @@ if(place_empty(x, y + 5) && current_state != DOG_STATE.IN_BOX){
 	//SI BAJA SPRITE DE CAIDA
 	if(sign(vsp) > 0){
 		//COMIENZA A ANIMAR SI NO HA EMPEZADO
-		sprite_index = spr_dog_jump_up1;
+		sprite_index = spr_dog_jump_up;
 		if(image_index <= 1){
 			image_speed = 1;
 		}
@@ -42,10 +42,10 @@ if(place_empty(x, y + 5) && current_state != DOG_STATE.IN_BOX){
 	switch(current_state){
 	
 		case DOG_STATE.SAD_WALK: 
-			sprite_index = spr_dog_jump_up1;
+			sprite_index = spr_dog_jump_up;
 			break;
 		case DOG_STATE.NORMAL_WALK: 
-			sprite_index = spr_dog_jump_up1;
+			sprite_index = spr_dog_jump_up;
 			break;
 		case DOG_STATE.ALERT: 
 		case DOG_STATE.SMELL: 
