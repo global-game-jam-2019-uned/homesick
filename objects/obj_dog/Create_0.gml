@@ -10,7 +10,7 @@ hsp = 0;
 vsp = 0;
 
 //GRAVEDAD
-grav = 0.05;
+grav = 0.1;
 
 //ALERTA
 can_smell = false;
