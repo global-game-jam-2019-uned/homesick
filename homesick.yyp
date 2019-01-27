@@ -536,7 +536,18 @@
             "Key": "37f8b1e4-fd71-45f9-9994-7fc1b20687b4",
             "Value": {
                 "id": "8c71e819-46d5-431f-ae36-083ed570f75b",
-                "resourcePath": "sprites\\spr_dog_normal_walk\\spr_dog_normal_walk.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_dog_normal_walk\/spr_dog_normal_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1187,6 +1198,25 @@
             }
         },
         {
+            "Key": "7d29d64e-a74a-47a8-a5d8-2bf93bb7d2ce",
+            "Value": {
+                "id": "062287bc-e6ac-4141-aae6-b4af00ca2424",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_fence\/obj_fence.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e655c98-e5c0-49f6-8186-5820d02ef150",
             "Value": {
                 "id": "10571b4d-d7f4-4f27-861b-f3b23db71a6c",
@@ -1374,6 +1404,25 @@
                 ],
                 "resourcePath": "rooms\/rm_scene2\/rm_scene2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8b174278-65a4-48b6-8c00-a7f83217b988",
+            "Value": {
+                "id": "71a5018f-e9a3-4d4f-84f0-7cd7221beecd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_house_platform\/obj_house_platform.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1684,7 +1733,18 @@
             "Key": "ab844182-7820-4f4f-92db-eb550b7a59e2",
             "Value": {
                 "id": "03ec8b7f-5b98-4854-addf-344b536b8c75",
-                "resourcePath": "sprites\\spr_bus_yellow\\spr_bus_yellow.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_bus_yellow\/spr_bus_yellow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2604,7 +2664,18 @@
             "Key": "f601e7e8-4b60-403f-b628-698ee4d362e1",
             "Value": {
                 "id": "8bebfbd0-570f-4684-b7e5-6d8511e2e1b9",
-                "resourcePath": "sprites\\spr_dog_smell\\spr_dog_smell.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_dog_smell\/spr_dog_smell.yy",
                 "resourceType": "GMSprite"
             }
         },
