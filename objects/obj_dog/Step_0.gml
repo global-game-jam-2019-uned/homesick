@@ -88,6 +88,16 @@ x += hsp;
 y += vsp;
 
 
-//
+///MANEJO DE SPRITES ANIMADOS
+if(on_air == true && vsp < 0){
+	sprite_index = spr_dog_jump_up;
+	if(image_index = 1){
+		image_speed = 0;
+	}
+}
 
+
+if(hsp < 0){
+	image_xscale = -1;
+} else {image_xscale = 1;}
 
