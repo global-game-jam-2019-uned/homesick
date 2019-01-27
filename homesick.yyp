@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "a166543d-006d-474b-8e49-b4d21df97454",
+            "Value": {
+                "id": "d844837f-ecbf-48d0-b4a9-8cc1384ca062",
+                "resourcePath": "sprites\\spr_boxPrueba\\spr_boxPrueba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a8140263-127b-4958-9e70-c3bb1b27069b",
             "Value": {
                 "id": "ac652138-79b1-407d-a504-d82919e70ef4",
