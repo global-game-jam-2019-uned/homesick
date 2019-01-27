@@ -8,8 +8,10 @@ if (jump) {
 	jump = false;
 }
 
+
 if (place_meeting(x, y - obj_dog_scene_trash.vsp, obj_dog_scene_trash)) {
 	instance_destroy();
+	obj_dog_scene_trash.vsp -= 25;
 }
 
 
@@ -44,11 +46,6 @@ if(place_meeting(x + hsp, y, obj_wall)){
 if(place_meeting(x + hsp, y + vsp, obj_wall)){
 	hsp = 0;
 	vsp = 0;
-}
-
-// COLISION CON EL JUGADOR AL CAER
-if (place_meeting(x, y + vsp, obj_dog_scene_trash)) {
-	room_restart();	
 }
 
 // GRAVEDAD DE LA RATA
