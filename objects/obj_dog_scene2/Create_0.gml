@@ -16,3 +16,4 @@ grav = 1;
 first_stop_light = 1
 
 on_air = false
+can_jump = true;
