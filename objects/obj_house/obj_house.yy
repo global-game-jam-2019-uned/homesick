@@ -1,5 +1,5 @@
 {
-    "id": "a78be456-fd00-4192-aaca-b4a745195797",
+    "id": "a3e6f711-028a-4b0b-aedc-c623a23fc792",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_house",

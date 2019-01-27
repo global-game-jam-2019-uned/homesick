@@ -1,5 +1,5 @@
 {
-    "id": "854f04c0-39ff-448c-b10b-89a081ddf3f1",
+    "id": "a33742ea-9a2d-4ec6-b92e-e902e1925586",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_fence",
