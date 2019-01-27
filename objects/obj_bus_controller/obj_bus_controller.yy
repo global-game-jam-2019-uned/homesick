@@ -5,16 +5,6 @@
     "name": "obj_bus_controller",
     "eventList": [
         {
-            "id": "e3af3ae5-6a75-4b70-a1bf-139593be5ff9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "486f35ba-fdf4-46c4-bad1-5e872da4bd2e",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "208a72d3-59f5-42f6-8d6f-b9abc946c021"
-        },
-        {
             "id": "1bd59a34-7421-48bf-b168-e606a7592340",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
+            "m_owner": "208a72d3-59f5-42f6-8d6f-b9abc946c021"
+        },
+        {
+            "id": "657e4aaa-d7f9-4bb0-a18c-2171d9707119",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "208a72d3-59f5-42f6-8d6f-b9abc946c021"
         }
     ],
