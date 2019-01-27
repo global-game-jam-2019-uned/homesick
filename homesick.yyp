@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "137f08cc-21c8-41ff-bb00-41c0af1a889e",
+            "Value": {
+                "id": "73b21389-d3b5-496b-8d4f-52ad870893a3",
+                "resourcePath": "sounds\\snd_escena3sinpiano\\snd_escena3sinpiano.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1720b5ab-6777-428a-bb69-ec461135f42c",
             "Value": {
                 "id": "45be11c3-c05d-4428-8750-20bdd5442097",
