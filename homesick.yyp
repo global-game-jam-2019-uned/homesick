@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "37f8b1e4-fd71-45f9-9994-7fc1b20687b4",
+            "Value": {
+                "id": "8c71e819-46d5-431f-ae36-083ed570f75b",
+                "resourcePath": "sprites\\spr_dog_normal_walk\\spr_dog_normal_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "38418f92-5135-4559-8ada-57410d1b5285",
             "Value": {
                 "id": "3335b085-0101-4ee7-9efd-6d7637cd4bf0",
@@ -1084,6 +1092,14 @@
                 "id": "0b31c1ae-03af-4e67-9ea2-3211d7727541",
                 "resourcePath": "views\/f5d7b42b-71b1-498f-a87f-4d307ba98ad8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f601e7e8-4b60-403f-b628-698ee4d362e1",
+            "Value": {
+                "id": "8bebfbd0-570f-4684-b7e5-6d8511e2e1b9",
+                "resourcePath": "sprites\\spr_dog_smell\\spr_dog_smell.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
