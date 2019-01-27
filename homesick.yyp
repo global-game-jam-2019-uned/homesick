@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "316702fa-a29f-4ba1-8908-5b3c0c78131d",
+            "Value": {
+                "id": "e15766d0-0ec3-4c5f-9000-4626ebad578c",
+                "resourcePath": "sprites\\tile_ground\\tile_ground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "318d974b-74c3-407f-a9a7-4490f68af8d7",
             "Value": {
                 "id": "a7fe82fe-01d7-4086-8436-6158b456eb5e",
@@ -300,14 +308,6 @@
                 "id": "cdf12122-96d4-4637-bc6d-59edc4032165",
                 "resourcePath": "scripts\\scr_dog_scene_2_bus_collision\\scr_dog_scene_2_bus_collision.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "4f14ec15-2daf-4af3-b6f3-9150158b69b7",
-            "Value": {
-                "id": "1af144a6-11b5-4651-ac83-33b4bd305c78",
-                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -724,14 +724,6 @@
                 "id": "18e14446-d0f6-43db-b7e9-25ab77a192c6",
                 "resourcePath": "sounds\/snd_escena1\/snd_escena1.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "bc605b99-37c2-4d67-b3fd-e96a1c1659b1",
-            "Value": {
-                "id": "7ca257af-2e2d-4829-bba9-a6790a36b61c",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
