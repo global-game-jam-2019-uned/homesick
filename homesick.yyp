@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0a031a41-a26d-44d3-9dd4-cdf572234265",
+            "Value": {
+                "id": "828954ed-0c53-4039-aa9e-f6124656a331",
+                "resourcePath": "sounds\\snd_gato3\\snd_gato3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "107d0100-c931-431a-801e-9811adbfae12",
             "Value": {
                 "id": "0997b824-3149-4375-8f07-fc107121d071",
@@ -551,6 +559,14 @@
             }
         },
         {
+            "Key": "81450ee3-0902-448d-9af9-b0626a1025c2",
+            "Value": {
+                "id": "131db2a4-bc07-44a6-bc1e-615cef8363e1",
+                "resourcePath": "sounds\\snd_gato4\\snd_gato4.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "82a78dc1-5d9a-4fec-99a5-18a684e32273",
             "Value": {
                 "id": "d3b1320d-0f6a-4207-a48c-11c3f2853aaf",
@@ -583,6 +599,13 @@
             }
         },
         {
+            "Key": "89deef9e-4154-44a0-9cbf-ea24efdf4eae",
+            "Value": {
+                "id": "f721331f-d2d0-4e3a-91c4-8d1892c2f0ef",
+                "resourcePath": "sounds\\snd_gato1\\snd_gato1.yy",
+                "resourceType": "GMSound"
+		},
+        {	
             "Key": "894811c5-e9f6-466c-8da8-967075da9fcf",
             "Value": {
                 "id": "38c549fe-5594-4adb-b582-eacd8dcafc4a",
@@ -900,6 +923,14 @@
                 "id": "27b44693-034e-41bd-9675-a080f3d8d7d3",
                 "resourcePath": "sprites\/spr_tree1\/spr_tree1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c20e6930-fa42-48e3-9529-b0b7e89aee9b",
+            "Value": {
+                "id": "5fd6bad4-534b-45b2-b73f-38bb39c3146a",
+                "resourcePath": "sounds\\snd_gato2\\snd_gato2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
