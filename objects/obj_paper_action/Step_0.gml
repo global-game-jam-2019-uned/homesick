@@ -3,6 +3,7 @@
 //SE DESTRUYE CUANDO LO TOCA PERRO
 if(place_meeting(x, y, obj_dog)){
 	paper_obtained = true;
+	audio_play_sound(snd_cartelarrugadovolando, 1, false);
 	
 }
 
