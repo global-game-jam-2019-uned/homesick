@@ -4,6 +4,7 @@ Juego para el Global Game Jam 2019 (Uned)
 
 ## Bibliografía
 
+[Car vector created by freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/car)
 
 ## Contribuidores 
 
