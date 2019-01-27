@@ -114,7 +114,7 @@
             "Key": "137f08cc-21c8-41ff-bb00-41c0af1a889e",
             "Value": {
                 "id": "73b21389-d3b5-496b-8d4f-52ad870893a3",
-                "resourcePath": "sounds\\snd_escena3sinpiano\\snd_escena3sinpiano.yy",
+                "resourcePath": "sounds\\snd_escena3completa\\snd_escena3completa.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -515,14 +515,6 @@
             "Value": {
                 "id": "53cc495b-1ad6-425b-8fad-699e1773f3c7",
                 "resourcePath": "sprites\/spr_invisible\/spr_invisible.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "817536c8-48d7-49ac-ad57-de4b7ce99782",
-            "Value": {
-                "id": "fdc8dcc1-63a6-4db7-a52f-930244e59b76",
-                "resourcePath": "sprites\\spr_city_day\\spr_city_day.yy",
                 "resourceType": "GMSprite"
             }
         },
