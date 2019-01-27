@@ -170,7 +170,7 @@
             "Key": "316702fa-a29f-4ba1-8908-5b3c0c78131d",
             "Value": {
                 "id": "e15766d0-0ec3-4c5f-9000-4626ebad578c",
-                "resourcePath": "sprites\\tile_ground\\tile_ground.yy",
+                "resourcePath": "sprites\\tile_floor\\tile_floor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -315,6 +315,14 @@
             "Value": {
                 "id": "a912d020-3c09-4ebb-acbc-432b84357154",
                 "resourcePath": "views\/5071ad9a-cfb9-4f09-aaf7-5f74cfaeada3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "52e203b8-218b-45ea-a5bb-4dd160442d90",
+            "Value": {
+                "id": "c5d0faa8-e76c-4db1-b886-d979eccd6af8",
+                "resourcePath": "views\\52e203b8-218b-45ea-a5bb-4dd160442d90.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -687,6 +695,14 @@
             }
         },
         {
+            "Key": "b7d2a12c-cf6d-42af-97ba-51d9c81c539d",
+            "Value": {
+                "id": "db376912-5f0e-4b67-9167-ed06f6050f35",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b90612cb-73d7-468d-9c8a-94c22005c296",
             "Value": {
                 "id": "2b88928a-f200-46e0-84c3-45590c294804",
@@ -906,7 +922,7 @@
             "Key": "f89ff746-ee6e-4383-9e48-38b6af591982",
             "Value": {
                 "id": "4b3e0e87-0b33-412e-9034-5b2e500a5b70",
-                "resourcePath": "sprites\\spr_dog_jump_up1\\spr_dog_jump_up1.yy",
+                "resourcePath": "sprites\\spr_dog_jump_down\\spr_dog_jump_down.yy",
                 "resourceType": "GMSprite"
             }
         },
