@@ -305,6 +305,14 @@
             }
         },
         {
+            "Key": "1f2d86f0-8066-4caf-adcc-cfe9a2b63edf",
+            "Value": {
+                "id": "67e4bd57-74c3-4712-8296-b8df91e07b44",
+                "resourcePath": "sounds\\snd_cartelarrugadovolando\\snd_cartelarrugadovolando.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f40ab22-717c-45dd-afd7-958982bc154a",
             "Value": {
                 "id": "eb2d2b33-bef2-4ceb-b608-b41e57a7ce7e",
@@ -1062,6 +1070,14 @@
                 ],
                 "resourcePath": "sprites\/sp_stop_light_button\/sp_stop_light_button.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5c0834e2-93f3-4102-a2d2-8a7e8915a6df",
+            "Value": {
+                "id": "c322e5e3-ce7d-4692-9ac7-22fc4d575de9",
+                "resourcePath": "sounds\\snd_cadavezqueelperropierde\\snd_cadavezqueelperropierde.yy",
+                "resourceType": "GMSound"
             }
         },
         {
