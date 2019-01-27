@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "4b31ca4b-f97a-4bfe-b9f8-b3da502a0719",
+            "Value": {
+                "id": "684cc301-e8d2-43b9-acf5-078c1430ffb3",
+                "resourcePath": "sprites\\spr_rat_hurt\\spr_rat_hurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4cc5bf24-c3c1-411d-be19-53dba6a2ac83",
             "Value": {
                 "id": "cdf12122-96d4-4637-bc6d-59edc4032165",
@@ -356,6 +364,14 @@
                 "id": "fe14ef02-4038-4e92-ac0c-c1ca9ef85784",
                 "resourcePath": "sprites\/spr_rat\/spr_rat.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "705c9367-46d4-4bad-baea-44907ae8b1df",
+            "Value": {
+                "id": "34f08f93-9f39-4008-9702-a9709eeea60d",
+                "resourcePath": "views\\705c9367-46d4-4bad-baea-44907ae8b1df.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "b20bbecf-2e63-48fc-92fe-a9b3fb8d2e6c",
+            "Value": {
+                "id": "ba9d64b5-4f3b-4c62-b9f6-dba1c958cc95",
+                "resourcePath": "sprites\\spr_rat_running\\spr_rat_running.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3fcec38-1341-47d9-9bee-0b88c11984fa",
             "Value": {
                 "id": "d29da79c-bd7e-4637-8105-a43a38daa141",
@@ -627,6 +651,14 @@
             "Value": {
                 "id": "f1dc14c5-809a-4f20-8337-56d70eebbaa6",
                 "resourcePath": "objects\/obj_particleSystem\/obj_particleSystem.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6ad7f5a-3775-42f3-a405-cad435183fac",
+            "Value": {
+                "id": "929719e8-0fdb-45eb-ab91-9936bebf5de2",
+                "resourcePath": "objects\\obj_rat_hurt\\obj_rat_hurt.yy",
                 "resourceType": "GMObject"
             }
         },
