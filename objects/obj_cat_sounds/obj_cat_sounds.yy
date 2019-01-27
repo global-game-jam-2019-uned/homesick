@@ -1,19 +1,10 @@
 {
-    "id": "c3b1a331-d214-4a7c-beda-f7371ede1691",
+    "id": "1f40ab22-717c-45dd-afd7-958982bc154a",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_cat_sounds",
     "eventList": [
-        {
-            "id": "bd1e23c2-7532-4c64-b676-1758c05510d1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "c3b1a331-d214-4a7c-beda-f7371ede1691"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
