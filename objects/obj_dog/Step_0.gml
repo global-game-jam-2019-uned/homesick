@@ -97,7 +97,8 @@ if(on_air == true && vsp < 0){
 }
 
 
-if(hsp < 0){
-	image_xscale = -1;
-} else {image_xscale = 1;}
+//INVIERTE DIRECCIÓN DE SPRITE DEPENDIENDO DE DIRECCIÓN DE VELOCIDAD
+if(sign(hsp) != 0){
+	image_xscale = sign(hsp);
+}
 
