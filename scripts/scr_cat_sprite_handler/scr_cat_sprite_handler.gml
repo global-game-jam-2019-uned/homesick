@@ -5,7 +5,7 @@ if(vsp != 0){
 	sprite_index = spr_cat_jump;
 } else {
 	
-	sprite_index = spr_cat_run
+	sprite_index = spr_cat_run;
 	
 }
 
@@ -13,6 +13,6 @@ if(vsp != 0){
 
 
 //INVIERTE DIRECCIÓN DE SPRITE DEPENDIENDO DE DIRECCIÓN DE VELOCIDAD
-if(sign(hsp) != 0){
-	image_xscale = sign(hsp);
+if(sign(hspeed) != 0){
+	image_xscale = sign(hspeed)*-1;
 }
